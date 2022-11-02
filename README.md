@@ -1,6 +1,13 @@
 #사전 준비
 
-nodejs 설치
+1. nodejs 설치
+
+2. 소스코드 다운로드
+% git clone https://github.com/jaehoonoh/pptx-nametag.git
+
+3. 필요한 module 설치하기
+% npm install
+
 
 #사용방법
 
