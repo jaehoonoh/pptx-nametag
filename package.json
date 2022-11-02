@@ -1,0 +1,21 @@
+{
+  "name": "pptx-nametag",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babel-polyfill": "^6.26.0",
+    "csv": "^6.2.1",
+    "image-size": "^1.0.2",
+    "is-electron": "^2.2.1",
+    "jquery-node": "^0.3.0",
+    "nodejs-pptx": "^1.0.1",
+    "pptxgenjs": "^3.11.0"
+  }
+}
